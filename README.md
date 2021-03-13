@@ -1,5 +1,6 @@
 # Javascript tetris
- 
+![image](https://wakatime.com/badge/github/marcusblanco/TetrisJS.svg)
+ ____
  😃 The game has a difficulty levels and player can change it
 ![image](https://user-images.githubusercontent.com/61409607/111037895-973b8b00-843f-11eb-854d-a567dacbbf2b.png)
  :white_check_mark: And the game hasn't broken yet 
